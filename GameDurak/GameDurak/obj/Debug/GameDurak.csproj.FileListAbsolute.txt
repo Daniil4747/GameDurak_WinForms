@@ -1,0 +1,14 @@
+C:\Users\berez\source\repos\GameDurak\GameDurak\bin\Debug\GameDurak.exe.config
+C:\Users\berez\source\repos\GameDurak\GameDurak\bin\Debug\GameDurak.exe
+C:\Users\berez\source\repos\GameDurak\GameDurak\bin\Debug\GameDurak.pdb
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.csproj.AssemblyReference.cache
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.csproj.SuggestedBindingRedirects.cache
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.Properties.Resources.resources
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.csproj.GenerateResource.cache
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.csproj.CoreCompileInputs.cache
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.exe
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.pdb
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.Form1.resources
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.Pictures.resources
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.CreateServer.resources
+C:\Users\berez\source\repos\GameDurak\GameDurak\obj\Debug\GameDurak.InputBox.resources
